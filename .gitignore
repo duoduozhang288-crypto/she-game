@@ -1,0 +1,46 @@
+# ---- Unity ----
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
+
+# ---- Unity 生成的平台目录 ----
+/[Bb]uilds-*
+/Assets/AssetStoreTools*
+/Assets/Plugins/Editor/JetBrains*
+
+# ---- IDE ----
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ---- 系统 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- 工具私有目录（不入库）----
+.workbuddy/
+
+# ---- 大文件 ----
+*.psd
+*.ai
+*.wav
+*.mp3
